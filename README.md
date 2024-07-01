@@ -14,3 +14,9 @@ This project analyzes the sales performance of restaurants during the COVID-19 p
 * Burger restaurants recorded the highest sales in 2020.
 * Quick service establishments offer an effective strategy for achieving high sales.
 * Sports bars and sandwich restaurants incurred significant losses.
+
+## Contents
+* Data Files: Includes datasets used in the analysis (Future50.csv, Independence100.csv, Top250.csv).
+* Engineering: Both R and Power Query is used.
+* R Scripts: Scripts for corona-era-restaurant-performance.R.
+* Power BI Report: Interactive dashboard (restaurant_sales_analysis.pbix) showcasing key findings and insights.
