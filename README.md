@@ -1,5 +1,8 @@
 # Restaurant Sales Performance Analysis during COVID
 
+* <a href="https://github.com/borisyalcin/sales-performance-corona/blob/main/corona-era-restaurant-performance.R"> Please refer here to review the R script (You need a script editor like RStudio or VSCode) </a>
+* <a href="https://github.com/borisyalcin/sales-performance-corona/blob/main/restaurant_performance_during_COVID.pbix"> Please refer here to review the Power BI pbix file (You need Power BI Desktop) </a>
+
 ## Overview
 This project analyzes the sales performance of restaurants during the COVID-19 pandemic (Corona). Using data from [describe your data source], we explore trends, impacts, and patterns in restaurant sales.
 
