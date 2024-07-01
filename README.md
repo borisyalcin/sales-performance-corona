@@ -15,6 +15,10 @@ This project analyzes the sales performance of restaurants during the COVID-19 p
 * Quick service establishments offer an effective strategy for achieving high sales.
 * Sports bars and sandwich restaurants incurred significant losses.
 
+## Visual Findings
+![image](https://github.com/borisyalcin/sales-performance-corona/assets/155834534/6b11ac42-7292-49db-9cfa-c2bf64195ccc)
+These distributions indicate that year-on-year sales percentages do not exceed 40%
+
 ## Contents
 * Data Files: Includes datasets used in the analysis (Future50.csv, Independence100.csv, Top250.csv).
 * Engineering: Both R and Power Query is used.
