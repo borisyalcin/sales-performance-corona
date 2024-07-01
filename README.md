@@ -17,7 +17,16 @@ This project analyzes the sales performance of restaurants during the COVID-19 p
 
 ## Visual Findings
 ![image](https://github.com/borisyalcin/sales-performance-corona/assets/155834534/6b11ac42-7292-49db-9cfa-c2bf64195ccc)
-These distributions indicate that year-on-year sales percentages do not exceed 40%
+These distributions indicate that year-on-year sales percentages do not exceed 40%.
+
+![image](https://github.com/borisyalcin/sales-performance-corona/assets/155834534/a6942155-95d5-41a2-8285-674a046f446b)
+Sales exhibit a strong positive correlation with branch locations.
+
+![image](https://github.com/borisyalcin/sales-performance-corona/assets/155834534/413ba782-0f44-4c46-80ec-1175c31b3628)
+Despite their inclusion on the top list for the year, approximately 35% of restaurants exhibited negative performance indicators.
+
+![image](https://github.com/borisyalcin/sales-performance-corona/assets/155834534/f685097a-2695-46de-b05f-ebc2b970c8d1)
+The analysis reveals that among the varied menu, sandwiches, and sports bar categories, negative indicators outweighed positive ones.
 
 ## Contents
 * Data Files: Includes datasets used in the analysis (Future50.csv, Independence100.csv, Top250.csv).
