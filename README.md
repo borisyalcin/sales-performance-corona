@@ -20,3 +20,11 @@ This project analyzes the sales performance of restaurants during the COVID-19 p
 * Engineering: Both R and Power Query is used.
 * R Scripts: Scripts for corona-era-restaurant-performance.R.
 * Power BI Report: Interactive dashboard (restaurant_sales_analysis.pbix) showcasing key findings and insights.
+
+## Installation
+* Clone the repository and install required packages using the following commands:
+
+```ruby
+git clone https://github.com/yourusername/restaurant-sales-analysis.git
+cd restaurant-sales-analysis
+```
